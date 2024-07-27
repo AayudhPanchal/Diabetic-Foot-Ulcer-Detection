@@ -1,0 +1,6 @@
+train: C:\\Users\\aayud\\OneDrive\\Desktop\\VS Code\\Machine Learning\\Internship\\Diabetic Foot Ulcer Detection\\train\\images
+val: C:\\Users\\aayud\\OneDrive\\Desktop\\VS Code\\Machine Learning\\Internship\\Diabetic Foot Ulcer Detection\\val\\images
+# test: 
+
+nc: 1
+names: ["Ulcer"]

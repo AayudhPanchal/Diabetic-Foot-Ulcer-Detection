@@ -1,0 +1,17 @@
+# yolov8 file
+models/yolov8n.pt
+
+# Ignore test
+test/images
+test/labels
+
+# Ignore train
+train/images
+train/labels
+
+# Ignore val
+val/images
+val/labels
+
+# Ignore Train Copy 
+train copy

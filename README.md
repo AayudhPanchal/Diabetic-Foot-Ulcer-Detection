@@ -22,6 +22,6 @@ This Code shows the training of a YOLO v8 model architecture from Ultralytics, f
     ├───images
     └───labels
 ```
-1. Run the Notebook
+5. Run the Notebook
 
 NOTE: The Dataset used here is not publically available, but make sure the labels are in the format used by YOLO

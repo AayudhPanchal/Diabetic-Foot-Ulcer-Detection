@@ -6,7 +6,7 @@ This Code shows the training of a YOLO v8 model architecture from Ultralytics, f
 1. ```bash git clone https://github.com/AayudhPanchal/Diabetic-Foot-Ulcer-Detection.git```
 1. ```bash cd Diabetic-Foot-Ulcer-Detection```
 1. Download your DataSet and split it into train, test and val folders as in the Notebook.
-1. This is how your folder structure should be : 
+1. This is how your folder structure should be inside Diabetic-Foot-Ulcer-Detection: 
 ```bash 
 ├───models
 ├───test

@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-08-10T12:52:39.161456",
+    "startedAt": "2024-08-10T12:52:36.675469",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/AayudhPanchal/Diabetic-Foot-Ulcer-Detection.git",
+        "commit": "afbf7d66bdbb9d94e31c838d2182af849a96998d"
+    },
+    "email": "aayudhpanchal@gmail.com",
+    "root": "C:/Users/aayud/OneDrive/Desktop/VS Code/Machine Learning/Internship/Diabetic Foot Ulcer Detection",
+    "host": "Zephyrus_G15",
+    "username": "aayud",
+    "executable": "c:\\Program Files\\Python311\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3201.0,
+        "min": 0.0,
+        "max": 3201.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3201.0,
+            "min": 0.0,
+            "max": 3201.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 852.0256996154785,
+            "used": 502.263729095459
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.242279052734375
+    }
+}

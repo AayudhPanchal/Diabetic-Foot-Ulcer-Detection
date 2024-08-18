@@ -15,9 +15,6 @@ This Code shows the training of a YOLO v8 model architecture from Ultralytics, f
 ├───train
 │   ├───images
 │   └───labels
-├───train copy
-│   ├───images
-│   └───labels
 └───val
     ├───images
     └───labels

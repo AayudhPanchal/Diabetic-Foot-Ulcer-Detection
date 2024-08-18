@@ -15,4 +15,6 @@ test_copy/
 val_copy/
 
 wandb/
-runs/
+
+runs/detect/train
+runs/detect/160_16

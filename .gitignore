@@ -5,10 +5,13 @@ models/yolov8n.pt
 test/
 
 # Ignore train
-train/
+train/images
+train/labels
+train/labels.csv
 
 # Ignore val
-val/
+val/images
+val/labels
  
 train_copy/
 test_copy/

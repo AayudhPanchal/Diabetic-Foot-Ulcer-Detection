@@ -2,16 +2,17 @@
 models/yolov8n.pt
 
 # Ignore test
-test/images
-test/labels
+test/
 
 # Ignore train
-train/images
-train/labels
+train/
 
 # Ignore val
-val/images
-val/labels
+val/
+ 
+train_copy/
+test_copy/
+val_copy/
 
-# Ignore Train Copy 
-train copy
+wandb/
+runs/

@@ -2,14 +2,13 @@ task: detect
 mode: train
 model: models/yolov8n.pt
 data: data.yaml
-epochs: 200
+epochs: 250
 time: null
 patience: 100
-batch: 16
+batch: 25
 imgsz: 640
 save: true
 save_period: -1
-val_period: 1
 cache: false
 device: null
 workers: 8

@@ -17,9 +17,9 @@ val_copy/
 wandb/
 
 best.pt
-yolob8n.pt
+yolov8n.pt
 
 runs/detect/train
 runs/detect/160_16
 
-dataset.zip/
+dataset.zip
